@@ -1,2 +1,2 @@
 # chkmeuvivo.py
-Checker simples meu vivo em python.
+Checker simples Meuvivo em python.
